@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+#csv
+tmdb_movies_2023.csv
+
 # C extensions
 *.so
 
